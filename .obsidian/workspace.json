@@ -11,10 +11,14 @@
             "id": "12ae873278ac1528",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -164,10 +168,13 @@
   },
   "active": "12ae873278ac1528",
   "lastOpenFiles": [
+    "README.pdf",
+    "images/Screenshot.md",
     "README.md",
-    "Pasted image 20250918190538.png",
-    "Pasted image 20250918190437.png",
-    "Screenshot 2025-09-18 185925.png",
-    "Screenshot 2025-09-18 185850.png"
+    "images",
+    "images/Pasted image 20250918190538.png",
+    "images/Pasted image 20250918190437.png",
+    "images/Screenshot 2025-09-18 185925.png",
+    "images/Screenshot 2025-09-18 185850.png"
   ]
 }
